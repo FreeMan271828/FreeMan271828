@@ -1,16 +1,21 @@
-### Hi there 👋
+# <center>Ciallo👋 FreeMan here</center>
 
-<!--
-**FreeMan271828/FreeMan271828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>Wish your soul above the world<center>
+<center>Wish your heart always humble</center>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <center>Tech Stack</ceter>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,spring" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
+  </a>
+</p>
