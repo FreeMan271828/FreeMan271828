@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ciallo! FreeMan here.
+# Ciallo! FreeMan here
 
 Wish your soul above the world<br>
 Wish your soul above the world
@@ -20,9 +20,7 @@ Wish your soul above the world
     <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
   </a>
 
-</div>
-
-# <div align="center">Mine Track</div>
+# Mine Track
 + 🏫 I am a sophomore undergraduate student.
 + 🚀 I am learning backend knowledge, including Mysql, SSM, Redis, etc.
 + 💻 I want to be a Full Stack Engineer.
