@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ciallo! FreeMan here
+# Ciallo! FreeMan here.
 
 Wish your soul above the world<br>
 Wish your soul above the world
@@ -23,5 +23,6 @@ Wish your soul above the world
 </div>
 
 # <div align="center">Mine Track</div>
++ 🏫 I am a sophomore undergraduate student.
 + 🚀 I am learning backend knowledge, including Mysql, SSM, Redis, etc.
-+ 💻 I want to be a Full Stack Engineer
++ 💻 I want to be a Full Stack Engineer.
