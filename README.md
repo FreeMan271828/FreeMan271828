@@ -1,8 +1,9 @@
 <div align="center">
 
 # Ciallo! FreeMan here
-### Wish your soul above the world
-### Wish your soul above the world
+Wish your soul above the world
+
+Wish your soul above the world
 
 # Tech Stack
 
