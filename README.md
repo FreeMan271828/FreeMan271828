@@ -1,21 +1,20 @@
-# <center>Ciallo👋 FreeMan here</center>
+<div align="center">
 
-<center>Wish your soul above the world<center>
-<center>Wish your heart always humble</center>
+# Ciallo👋 FreeMan here
 
-# <center>Tech Stack</ceter>
-<p align="center">
+<p style="margin-bottom: 5px;">Wish your soul above the world</p>
+<p>Wish your heart always humble</p>
+
+# Tech Stack
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r" />
   </a>
-</p>
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,spring" />
   </a>
-</p>
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
   </a>
-</p>
