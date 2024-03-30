@@ -21,6 +21,6 @@ Wish your soul above the world
   </a>
 
 # Mine Track
++ 🚀 I am interested in varius techonology, like javascript, AI, algorithm, JVM, Software Engineering etc.
 + 🏫 I am a sophomore undergraduate student.
-+ 🚀 I am learning backend knowledge, including Mysql, SSM, Redis, etc.
-+ 💻 I want to be a Full Stack Engineer.
++ 💻 I want to be a awesome engineer.
