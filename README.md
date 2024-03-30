@@ -2,9 +2,7 @@
 
 # FreeMan's Home
 
-Wish your soul above the world<br>
 Wish your soul above the world
-<br>
 
 # Tech Stack
 
