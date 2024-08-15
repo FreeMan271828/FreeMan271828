@@ -17,8 +17,3 @@ Wish your soul above the world
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
   </a>
-
-# Mine Track
-+ 🚀 I am interested in varius techonology, like javascript, AI, algorithm, JVM, Software Engineering etc.
-+ 🏫 I am a sophomore undergraduate student.
-+ 💻 I want to be a awesome engineer.
