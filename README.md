@@ -20,5 +20,5 @@ Wish your soul above the world
 
 # My Data
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeMan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeMan271828&layout=compact&theme=tokyonight)
 
