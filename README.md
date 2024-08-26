@@ -7,7 +7,7 @@ Wish your soul above the world
 # Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,Rust" />
   </a>
     <br>
   <a href="https://skillicons.dev">
@@ -24,5 +24,4 @@ Wish your soul above the world
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreeMan271828&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FreeMan271828&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FreeMan271828&theme=nord_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreeMan271828&theme=nord_dark)
 
