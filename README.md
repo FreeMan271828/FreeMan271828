@@ -18,6 +18,7 @@ Wish your soul above the world
     <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
   </a>
 
-#My Data
+# My Data
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeMan&layout=compact&theme=tokyonight)
 
