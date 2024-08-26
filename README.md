@@ -6,7 +6,7 @@ Wish your soul above the world
 
 # My Data
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={FreeMan271828}&theme={nord_dark}">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)
 
 # Tech Stack
 
