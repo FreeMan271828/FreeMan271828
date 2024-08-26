@@ -7,7 +7,7 @@ Wish your soul above the world
 # Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,Rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust" />
   </a>
     <br>
   <a href="https://skillicons.dev">
