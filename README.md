@@ -4,6 +4,10 @@
 
 Wish your soul above the world
 
+# My Data
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={FreeMan271828}&theme={nord_dark}">
+
 # Tech Stack
 
   <a href="https://skillicons.dev">
