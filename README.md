@@ -20,5 +20,9 @@ Wish your soul above the world
 
 # My Data
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeMan271828&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FreeMan271828&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreeMan271828&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FreeMan271828&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FreeMan271828&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreeMan271828&theme=nord_dark)
 
