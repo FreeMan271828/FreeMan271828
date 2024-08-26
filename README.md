@@ -6,7 +6,7 @@ Wish your soul above the world
 
 # My Data
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreeMan&theme=nord_bright)
 
 # Tech Stack
 
