@@ -7,7 +7,7 @@ Wish your soul above the world
 # Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mybatis,redis,md" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,redis,md" />
   </a>
     <br>
   <a href="https://skillicons.dev">
