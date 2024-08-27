@@ -7,15 +7,15 @@ Wish your soul above the world
 # Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mybatis,redis,md" />
   </a>
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,spring" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb" />
   </a>
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode,md" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,pytorch,rust" />
   </a>
 
 # My Data
