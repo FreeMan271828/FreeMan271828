@@ -15,7 +15,7 @@ Wish your soul above the world
   </a>
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,pytorch,rust" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,pytorch,dubbo" />
   </a>
 
 # My Data
